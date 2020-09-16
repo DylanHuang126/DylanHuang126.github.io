@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Liang-Ying Huang"
-  avatar           : "self_protrait.jpg"
+  avatar           : "self_portrait.jpg"
   bio              : "Research assistant at Academia Sinica.     Undergraduate at National Taiwan University."
   location         : "Taipei, Taiwan"
   employer         : "Academia Sinica"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "lyhuang126@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  
