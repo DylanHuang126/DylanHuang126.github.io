@@ -10,6 +10,8 @@ redirect_from:
 
 Welcome! 
 
-I am a research assistant in [Natural Language Processing and Sentiment Analysis (NLPSA) Lab](https://academiasinicanlplab.github.io) at Academia Sinica supervised by [Dr. Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/).
+I am a research assistant in [Natural Language Processing and Sentiment Analysis (NLPSA) Lab](https://academiasinicanlplab.github.io) at Academia Sinica supervised by [Dr. Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/). My research interests lie at Machine Learning and Deep Learning for **recommender system** and **text generation**.
+
+I like to cook, read books and do weight training during my free time.
 
 Here is my CV: [Liang-Ying Huang's CV](files/CV.pdf)
