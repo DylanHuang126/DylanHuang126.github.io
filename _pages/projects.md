@@ -18,7 +18,7 @@ Implementations of three classic deep learning problems: Document summarization 
   <li>Reinforcement learning in OpenAI gym:</li>
 </ol> -->
 <br>
-<a href="/file/summarizations.zip">[Code link1] </a> <a href="/file/QA.zip">[Code link2] </a> <a href="/file/RL.zip">[Code link3]</a> 
+<a href="/files/summarizations.zip">[Code link1] </a> <a href="/files/QA.zip">[Code link2] </a> <a href="/files/RL.zip">[Code link3]</a> 
 <br></small>
 </div>
 <div style="clear:both"></div>
@@ -32,7 +32,7 @@ Implementations of three classic deep learning problems: Document summarization 
 <small><br>
 Extraction information in Japanese documents.
 <br>
-<a href="/file/">[Paper link] </a> <a href="https://youtu.be/kl92dEIZnn8">[Vedio link] </a> <a href="/file/">[Code link]</a> 
+<a href="/files/JIE_Report.pdf">[Paper link] </a> <a href="https://youtu.be/kl92dEIZnn8">[Vedio link] </a> <a href="/files/JIE.zip">[Code link]</a> 
 <br></small>
 <br>
 </div>
