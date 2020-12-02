@@ -5,4 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Still under maintenance...
+### Under-submitting Paper
+
+Learning to Explain Recommendation by Hierarchical View Path Reasoning Network
