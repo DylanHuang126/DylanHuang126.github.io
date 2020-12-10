@@ -18,4 +18,4 @@ I like to cook, read books, and do weight training during my free time.
 
 Feel free to contact me if you are interested in my research or have any questions. I am more than happy to hear from you! 
 
-Here is my CV: [Liang-Ying Huang's CV](files/CV.pdf)
+Here is my CV: [Liang-Ying Huang's CV](files/CV_1210.pdf)
